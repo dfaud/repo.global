@@ -1,4 +1,9 @@
 Dvlp principal #01
+#08a
+#08b
+#08c
+#08d
+#08e
 Dvlp principal #02
 Dvlp principal #03
 Dvlp principal #04
