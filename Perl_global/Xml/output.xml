@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+   <greeting class="simple">Hello, world!</greeting>
+   <toto name="att1">data1</toto>
+   <!-- Un commentaire -->
+   <toto name="att2.jpg" />
+</data>

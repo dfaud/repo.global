@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Perl_global</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.epic.perleditor.perlbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.epic.perleditor.perlnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Sqlite/DB01.sqlite</name>
+			<type>1</type>
+			<location>F:/workspace/Perl_proj02/Sqlite/DB01.sqlite</location>
+		</link>
+	</linkedResources>
+</projectDescription>
