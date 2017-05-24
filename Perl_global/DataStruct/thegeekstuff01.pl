@@ -2,7 +2,7 @@
 #http://www.perlmonks.org/?node_id=1975
 #https://perlmaven.com/perl-arrays 
 
-use strict;
+use strict; 
 use warnings;
 
 # Perl Array of Arrays
